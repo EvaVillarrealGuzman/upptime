@@ -4,7 +4,7 @@
     "url": "https://plataforma.optim.ar/",
     "icon": "https://favicons.githubusercontent.com/plataforma.optim.ar",
     "slug": "plataforma-optim",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 243,
     "timeMonth": 209,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Grafana",
