@@ -32,19 +32,19 @@
     "url": "http://3.133.118.137:3000",
     "icon": "https://icons.duckduckgo.com/ip3/3.133.118.137.ico",
     "slug": "grafana",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 152,
-    "timeWeek": 137,
-    "timeMonth": 138,
+    "timeDay": 222,
+    "timeWeek": 156,
+    "timeMonth": 143,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 12
     }
   }
 ]
