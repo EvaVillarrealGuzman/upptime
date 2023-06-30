@@ -14,7 +14,7 @@
     "timeDay": 360,
     "timeWeek": 249,
     "timeMonth": 340,
-    "timeYear": 249,
+    "timeYear": 250,
     "dailyMinutesDown": {
       "2023-01-03": 88,
       "2022-10-24": 159,
@@ -30,9 +30,9 @@
     "url": "http://3.133.118.137:3000",
     "icon": "https://icons.duckduckgo.com/ip3/3.133.118.137.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -41,6 +41,8 @@
     "timeWeek": 171,
     "timeMonth": 156,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-30": 0
+    }
   }
 ]
