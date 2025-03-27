@@ -4,15 +4,15 @@
     "url": "https://plataforma.optim.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/plataforma.optim.ar.ico",
     "slug": "plataforma-optim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "49.56%",
+    "uptimeDay": "53.62%",
     "uptimeWeek": "16.83%",
-    "uptimeMonth": "68.60%",
-    "uptimeYear": "97.38%",
+    "uptimeMonth": "68.70%",
+    "uptimeYear": "97.39%",
     "time": 195,
-    "timeDay": 200,
-    "timeWeek": 176,
+    "timeDay": 198,
+    "timeWeek": 177,
     "timeMonth": 170,
     "timeYear": 186,
     "dailyMinutesDown": {
@@ -28,7 +28,7 @@
       "2025-03-18": 1019,
       "2025-03-17": 1082,
       "2025-03-16": 1085,
-      "2025-03-15": 852
+      "2025-03-15": 808
     }
   },
   {
