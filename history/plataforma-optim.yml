@@ -1,7 +1,7 @@
 url: https://plataforma.optim.ar/
-status: up
-code: 200
-responseTime: 411
-lastUpdated: 2025-03-28T21:22:04.032Z
+status: down
+code: 403
+responseTime: 353
+lastUpdated: 2025-03-28T21:35:13.317Z
 startTime: 2022-03-28T16:17:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
