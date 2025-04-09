@@ -6,17 +6,17 @@
     "slug": "plataforma-optim",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "81.06%",
-    "uptimeWeek": "86.84%",
-    "uptimeMonth": "91.28%",
+    "uptimeDay": "84.46%",
+    "uptimeWeek": "87.23%",
+    "uptimeMonth": "91.25%",
     "uptimeYear": "99.27%",
-    "time": 189,
-    "timeDay": 201,
+    "time": 188,
+    "timeDay": 193,
     "timeWeek": 183,
     "timeMonth": 173,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-04-08": 236,
+      "2025-04-08": 224,
       "2025-04-07": 141,
       "2025-04-06": 116,
       "2025-04-05": 139,
@@ -27,7 +27,7 @@
       "2025-03-31": 739,
       "2025-03-30": 445,
       "2025-03-29": 698,
-      "2025-03-28": 121
+      "2025-03-28": 145
     }
   },
   {
@@ -42,9 +42,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 91,
-    "timeWeek": 115,
-    "timeMonth": 107,
+    "timeDay": 49,
+    "timeWeek": 107,
+    "timeMonth": 106,
     "timeYear": 130,
     "dailyMinutesDown": {}
   }
