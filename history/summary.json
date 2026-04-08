@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/plataforma.optim.ar.ico",
     "slug": "plataforma-optim",
     "status": "down",
-    "uptime": "81.22%",
+    "uptime": "81.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.88%",
+    "uptimeYear": "24.63%",
     "time": 263,
-    "timeDay": 185,
-    "timeWeek": 803,
-    "timeMonth": 369,
-    "timeYear": 292,
+    "timeDay": 179,
+    "timeWeek": 792,
+    "timeMonth": 368,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2026-04-07": 87,
+      "2026-04-08": 88,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -295,8 +296,7 @@
       "2025-04-13": 1440,
       "2025-04-12": 1440,
       "2025-04-11": 342,
-      "2025-04-09": 38,
-      "2025-04-08": 224
+      "2025-04-09": 38
     }
   },
   {
@@ -310,10 +310,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 114,
+    "time": 127,
+    "timeDay": 48,
+    "timeWeek": 68,
+    "timeMonth": 107,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-08-16": 23
